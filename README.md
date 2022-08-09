@@ -1,2 +1,2 @@
 # Js-practice-2
-Here, My w3resource practice code
+Here, My w3resource & other practice code
