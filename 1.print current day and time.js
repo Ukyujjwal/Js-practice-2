@@ -1,7 +1,7 @@
 const today = new Date();
 const day = today.getDay();
-const daylist = ["Sunday","Monday","Tuesday","Wednesday ","Thursday","Friday","Saturday"];
-console.log(`Today is : ${daylist[day]}.`);
+const dayList = ["Sunday","Monday","Tuesday","Wednesday ","Thursday","Friday","Saturday"];
+console.log(`Today is : ${dayList[day]}.`);
 let hour = today.getHours();
 const minute = today.getMinutes();
 const second = today.getSeconds();
